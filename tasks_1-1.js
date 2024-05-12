@@ -75,4 +75,4 @@ const lastElement = (word) => {
   }
 };
 
-console.log(lastElement("Мать"));
+// console.log(lastElement("Мать"));
