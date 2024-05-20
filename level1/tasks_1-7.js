@@ -35,4 +35,4 @@ const sumArrNumbers = (num) => {
   return sumArr.reduce((sum, num) => (sum += +num), 0);
 };
 
-console.log(sumArrNumbers(12345));
+// console.log(sumArrNumbers(12345));
