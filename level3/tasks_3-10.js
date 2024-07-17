@@ -70,7 +70,7 @@ const filterUniqueDigitNumbers = (arr) => {
   return returnArr;
 };
 
-console.log(filterUniqueDigitNumbers([123, 456, 789, 112, 223]));
+// console.log(filterUniqueDigitNumbers([123, 456, 789, 112, 223]));
 
 // #6
 // Дан массив:
